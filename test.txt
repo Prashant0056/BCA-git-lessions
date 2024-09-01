@@ -1,3 +1,4 @@
 master branch writing this
 
 this is text edited from branch1
+this is edit from branch2
